@@ -10,8 +10,8 @@ url: 'http://webjeda.com'
 
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: #16a085
-chrome_mobile_color: #16a085
+theme_skin: #f39c12
+chrome_mobile_color: #f39c12
 
 # Tracker
 analytics: UA-83979019-1
