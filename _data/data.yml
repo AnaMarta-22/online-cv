@@ -16,7 +16,8 @@ sidebar:
     phone: 012 345 6789
     linkedin: ana-marta-freixo/
     github: AnaMarta-22
-    
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
     languages:
       - idiom: Portuguese
         level: Native
@@ -40,9 +41,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     After finishing my master degree in Human Resources Management I've started working as a recruiter. 
-     More recently I decided to embrace the challenge to start recruiting IT Professionals. 
-    
+     Após terminar o Mestrado em Recursos Humanos, comecei a trabalhar como recrutadora. Já tive experiência em diferentes àreas, 
+     desde trabalho temporário, recrutamento de perfis de BPO e Shared Services, e atualmente mergulhei no recrutamento de IT. 
 education:
     - degree: MSc in Human Resources
       university: ISEG | Lisbon School of Economics & Management
@@ -67,30 +67,98 @@ experiences:
           - Participation in job fairs;
           - Database management.
           
-    - role: Talent Acquisiton Specialist
-      time: 2020
-      company: Elevus
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-          - Recrutamento e Seleção especializado;
-          - Pesquisa de candidatos para cobrir os pedidos em aberto;
-          - Pesquisa direta no mercado para a identificação de potenciais candidatos, através de fontes não tradicionais de recrutamento nomeadamente, rede de networking e ferramentas de Talent Search;
-          - Realização de triagem telefónica dos potenciais candidatos;
-          - Realização de entrevistas e dos respetivos relatórios;
-          - Elaboração e colocação de anúncios;
-          - Gestão da base de dados de candidatos.
-          
-  skills:
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Microsoft Office
+      - name: Python & Django
         level: 98%
 
-      - name: Team work
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Comunication
+      - name: Angular
         level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
