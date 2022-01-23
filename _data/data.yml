@@ -16,8 +16,7 @@ sidebar:
     phone: 012 345 6789
     linkedin: ana-marta-freixo/
     github: AnaMarta-22
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+    
     languages:
       - idiom: Portuguese
         level: Native
@@ -67,28 +66,16 @@ experiences:
           - Participation in job fairs;
           - Database management.
           
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Talent Aquisition Specialist
+      time: 2020
+      company: Elevus
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Recruitment & Selection;
+          - Source candidates using several platforms;
+          - Publish job advertisements;
+          - Recruitment interviews;
+          - Database management.
+    
 projects:
     title: Projects
     intro: >
