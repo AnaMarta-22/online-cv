@@ -40,8 +40,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Após terminar o Mestrado em Recursos Humanos, comecei a trabalhar como recrutadora. Já tive experiência em diferentes àreas, 
-     desde trabalho temporário, recrutamento de perfis de BPO e Shared Services, e atualmente mergulhei no recrutamento de IT. 
+     After finishing my master degree in Human Resources Management, I've started working in this area. Currently working as a recruiter, looking the best IT talents.
+ 
 education:
     - degree: MSc in Human Resources
       university: ISEG | Lisbon School of Economics & Management
@@ -103,49 +103,18 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Microsoft Office
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Communication
         level: 98%
 
-      - name: Angular
+      - name: Organization
         level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
