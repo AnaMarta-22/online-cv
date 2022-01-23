@@ -9,8 +9,8 @@ url: 'http://webjeda.com'
 #baseurl: '/online-cv' 
 
 description: A beautiful Jekyll theme for creating resume
-#f39c12
-theme_skin: f39c12
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: green
 chrome_mobile_color: #f39c12
 
 # Tracker
